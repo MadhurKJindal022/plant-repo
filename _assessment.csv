@@ -1,0 +1,2 @@
+Plant Name,Health Status,Average Health Score,Current Values,Ideal Values,Suggestions
+,Moderate,0.5166666666666667,"[6, 50.0, 5, 50, 7, 600]","[12, 100, 10, 100, 7, 400]","['Increase Sunlight (hours) to around 12.', 'Increase Nutrients (NPK) to around 100.', 'Increase Water (liters) to around 10.', 'Increase Humidity (%) to around 100.', 'Reduce CO2 (ppm) to closer to 400.']"

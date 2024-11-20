@@ -1,0 +1,308 @@
+﻿Name,Scientific Name,Climate of Growth,Life Span,Soil,Adequate Rainfall,Regions1,Regions2,Regions3,Season
+Apple,Malus domestica,Temperate,50 years,Loamy,600-800,North America,Europe,Asia,Fall
+Blueberry,Vaccinium corymbosum,Cool or Tempeature,10-20 years,Acidic,750-1000,North America,Europe,Australia,Summer
+Cherry,Prunus avium,Temperate,15-20 years,Well-drained,700-900,Europe,North America,Asia,Spring
+Corn,Zea mays,Warm or  Tropical,Annual,Loamy  Sandy,500-800,North America,South America,Africa,Summer
+Grape,Vitis vinifera,Mediterranean,30-50 years,Loamy Clay,600-1000,Europe,Asia,North America,Fall
+Orange,Citrus sinensis,Tropical or Subtropical,50 years,Sandy or Loamy,1000-1200,South America,Asia,Africa,Winter
+Peach,Prunus persica,Warm,10-15 years,Well-drained,750-1000,Asia,Europe,North America,Summer
+Pepper,Capsicum annuum, Warm,Annual,Loamy or Sandy,600-800,South America,Asia,Africa,Summer
+Potato,Solanum tuberosum,Cool or Tempeature,Annual,Loamy,500-700,North America,Europe,South America,Fall
+Raspberry,Rubus idaeus,Cool,10-15 years,Well-drained,600-800,Europe,North America,Asia,Summer
+Soybean,Glycine max,Tropical,Annual,Loamy Clay,600-800,Asia,North America,South America,Summer
+Squash,Cucurbita pepo,Warm,Annual,Loamy Sandy,500-700,North America,South America,Europe,Fall
+Strawberry,Fragaria Ã— ananassa, Subtropical,5-6 years,Well-drained,500-700,North America,Europe,Asia,Summer
+Tomato,Solanum lycopersicum,Warm,Annual,Loamy or  Sandy,600-800,South America,Asia,Europe,Summer
+Rose,Rosa,Temperate,2-5 years,Loamy,500-700 mm,Asia,North America,Europe,Spring
+Oak,Quercus,Temperate,100-300 years,Clay,750-1000 mm,North America,Europe,Asia,Autumn
+Sunflower,Helianthus annuus,Tropical,1 year,Sandy Loam,600-800 mm,North America,Europe,South America,Summer
+Tulip,Tulipa,Temperate,5-7 years,Sandy,500-700 mm,Europe,Asia,North America,Spring
+Cactus,Cactaceae,Desert,10-100 years,Sandy,50-200 mm,North America,South America,Africa,Year-round
+Bamboo,Bambusoideae,Subtropical,20-50 years,Loamy,1000-1500 mm,Asia,Africa,Australia,Summer
+Pine,Pinus,Temperate,100-1000 years,Sandy,400-700 mm,North America,Europe,Asia,Winter
+Lavender,Lavandula,Temperate,5-10 years,Sandy,300-600 mm,Europe,North Africa,Asia,Summer
+Maple,Acer,Temperate,50-200 years,Clay,600-800 mm,North America,Asia,Europe,Autumn
+Olive,Olea europaea,Mediterranean,500-1000 years,Loamy,400-600 mm,Europe,Middle East,Africa,Summer
+Dandelion, Taraxacum,Tropical,1-2 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Eucalyptus,Eucalyptus,Subtropical,50-100 years,Loamy,700-900 mm,Australia,Asia,South America,Summer
+Palm,Arecaceae,Tropical,70-100 years,Sandy,1000-1500 mm,Africa,Asia,South America,Summer
+Aloe Vera,Aloe,Tropical,5-25 years,Sandy Loam,300-500 mm,Africa,Asia,South America,Year-round
+Coconut,Cocos nucifera,Tropical,60-80 years,Sandy,1500-2500 mm,Asia,South America,Africa,Summer
+Cherry Blossom,Prunus serrulata,Temperate,15-25 years,Loamy,500-700 mm,Asia,North America,Europe,Spring
+Willow,Salix,Temperate,30-50 years,Clay Loam,600-900 mm,North America,Europe,Asia,Spring
+Lily,Lilium,Tropical,2-3 years,Loamy,700-900 mm,Asia,Europe,North America,Summer
+Magnolia,Magnolia,Tropical,80-120 years,Loamy,700-900 mm,Asia,North America,South America,Spring
+Fern,Pteridophyta,Temperate,10-20 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Orchid,Orchidaceae,Tropical,5-10 years,Sandy Loam,1000-1500 mm,Asia,South America,Australia,Summer
+Hibiscus,Hibiscus,Tropical,5-10 years,Loamy,700-900 mm,Africa,Asia,Australia,Summer
+Ivy,Hedera helix,Temperate,10-30 years,Clay,600-800 mm,Europe,Asia,North America,Autumn
+Lemon,Citrus limon,Tropical,50-100 years,Loamy,800-1200 mm,Asia,Europe,North America,Summer
+Banana,Musa,Tropical,2-10 years,Loamy,1000-1500 mm,Asia,Africa,South America,Year-round
+Basil,Ocimum basilicum,Tropical,1 year,Loamy,500-700 mm,Asia,Europe,North America,Summer
+Tulsi,Ocimum tenuiflorum,Tropical,1 year,Loamy,500-800 mm,Asia,Africa,Summer,
+Mango,Mangifera indica,Tropical,40-50 years,Loamy,1000-1500 mm,Asia,Africa,South America,Summer
+Ginkgo,Ginkgo biloba,Temperate,100-200 years,Clay Loam,600-900 mm,Asia,Europe,North America,Autumn
+Jasmine,Jasminum,Subtropical,5-15 years,Sandy Loam,600-800 mm,Asia,Africa,Europe,Summer
+Peony,Paeonia,Temperate,10-20 years,Loamy,500-700 mm,Asia,Europe,North America,Spring
+Pepper,Piper nigrum,Tropical,5-10 years,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Carrot,Daucus carota,Temperate,1 year,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Corn,Zea mays,Tropical,1 year,Sandy Loam,700-1000 mm,North America,South America,Asia,Summer
+Rice,Oryza sativa,Tropical,1 year,Clay Loam,1500-2000 mm,Asia,Africa,South America,Year-round
+Tomato,Solanum lycopersicum,Tropical,1 year,Loamy,600-900 mm,North America,Europe,Asia,Summer
+Potato,Solanum tuberosum,Temperate,1-2 years,Loamy,700-1000 mm,Europe,Asia,North America,Summer
+Strawberry,Fragaria,Temperate,2-5 years,Loamy,600-900 mm,Europe,Asia,North America,Spring
+Blueberry, Vaccinium,Tropical,10-20 years,Peaty,1000-1500 mm,North America,Asia,Europe,Summer
+Apple,Malus domestica,Temperate,50-80 years,Loamy,700-1000 mm,North America,Europe,Asia,Autumn
+Pear,Pyrus,Tropical,50-70 years,Loamy,600-800 mm,Asia,Europe,North America,Spring
+Pumpkin,Cucurbita pepo,Tropical,1 year,Loamy,500-700 mm,North America,South America,Asia,Autumn
+Grape,Vitis vinifera,Temperate,50-100 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Summer
+Peach,Prunus persica,Temperate,10-20 years,Loamy,600-900 mm,Asia,North America,Europe,Summer
+Chili Pepper,Capsicum annuum,Tropical,1 year,Loamy,600-900 mm,Asia,South America,Africa,Summer
+Pomegranate,Punica granatum,Subtropical,50-100 years,Loamy,600-800 mm,Asia,Europe,North America,Autumn
+Papaya,Carica papaya,Tropical,5-10 years,Sandy Loam,1000-1500 mm,Asia,Africa,South America,Year-round
+Cucumber,Cucumis sativus,Tropical,1 year,Loamy,500-700 mm,Asia,Africa,Europe,Summer
+Broccoli,Brassica oleracea,Temperate,1-2 years,Loamy,600-900 mm,Europe,Asia,North America,Winter
+Cabbage,Brassica oleracea var. capitata,Temperate,1-2 years,Loamy,600-900 mm,Europe,Asia,North America,Winter
+Spinach,Spinacia oleracea,Temperate,1 year,Sandy Loam,500-700 mm,Asia,Europe,North America,Spring
+Mint,Mentha,Tropical,5-10 years,Loamy,500-700 mm,Europe,Asia,North America,Summer
+Onion,Allium cepa,Temperate,1 year,Loamy,500-700 mm,Asia,Europe,North America,Spring
+Garlic,Allium sativum,Temperate,1 year,Loamy,500-700 mm,Europe,Asia,North America,Spring
+Beetroot,Beta vulgaris,Temperate,1 year,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Zucchini,Cucurbita pepo,Tropical,1 year,Loamy,500-700 mm,Europe,Asia,North America,Summer
+Eggplant,Solanum melongena,Tropical,1-2 years,Loamy,600-900 mm,Asia,Europe,North America,Summer
+Celery,Apium graveolens,Temperate,1 year,Sandy Loam,400-600 mm,Europe,Asia,North America,Autumn
+Parsley,Petroselinum crispum,Temperate,1-2 years,Loamy,400-600 mm,Europe,Asia,North America,Autumn
+Dill,Anethum graveolens,Temperate,1 year,Sandy Loam,500-700 mm,Asia,Europe,North America,Summer
+Rosemary,Rosmarinus officinalis,Mediterranean,15-20 years,Sandy Loam,400-600 mm,Europe,North America,Asia,S
+Name,Scientific Name,Climate of Growth,Life Span,Soil,Adequate Rainfall,Top Regions,Season,,
+Acer Maple,Acer pseudoplatanus,Temperate,80-120 years,Loamy,500-900 mm,Europe,Asia,North America,Autumn
+Acorn,Quercus robur,Temperate,100-300 years,Clay Loam,600-800 mm,North America,Europe,Asia,Spring
+Alder,Alnus glutinosa,Temperate,20-50 years,Sandy,500-700 mm,Europe,Asia,North America,Spring
+Amaranth,Amaranthus,Tropical,1 year,Sandy Loam,300-600 mm,Asia,South America,Africa,Summer
+Amur Maple,Acer ginnala,Temperate,60-100 years,Clay Loam,600-900 mm,Asia,Europe,North America,Autumn
+Angelica,Angelica archangelica,Temperate,2-5 years,Sandy Loam,500-700 mm,Europe,North America,Asia,Spring
+Apple Mint,Mentha suaveolens,Temperate,5-10 years,Loamy,600-800 mm,Europe,Asia,North America,Summer
+Ash,Fraxinus excelsior,Temperate,100-200 years,Clay Loam,600-1000 mm,Europe,North America,Asia,Autumn
+Aspen,Populus tremula,Temperate,40-60 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Spring
+Asparagus,Asparagus officinalis,Temperate,10-15 years,Loamy,500-700 mm,Europe,Asia,North America,Spring
+Aubergine,Solanum melongena,Tropical,1-2 years,Sandy Loam,700-1000 mm,Asia,Europe,North America,Summer
+Avocado,Persea americana,Tropical,30-50 years,Loamy,1200-1500 mm,South America,Asia,Africa,Summer
+Baobab,Adansonia digitata,Tropical,500-1000 years,Sandy,200-400 mm,Africa,Madagascar,Australia,Summer
+Barley,Hordeum vulgare,Temperate,1 year,Loamy,500-800 mm,Europe,Asia,North America,Autumn
+Basil Mint,Mentha basilicum,Tropical,1-2 years,Loamy,500-700 mm,Asia,Africa,North America,Summer
+Bay Tree,Laurus nobilis,Mediterranean,50-100 years,Loamy,600-800 mm,Europe,Asia,North America,Summer
+Beech,Fagus sylvatica,Temperate,150-200 years,Clay Loam,600-900 mm,Europe,North America,Asia,Spring
+Birch,Betula pendula,Temperate,40-50 years,Sandy,500-700 mm,Europe,Asia,North America,Autumn
+Blackberry,Rubus fruticosus,Temperate,5-10 years,Loamy,600-800 mm,Europe,North America,Asia,Summer
+Blackcurrant,Ribes nigrum,Temperate,5-10 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Blue Agave,Agave tequilana,Tropical,10-15 years,Sandy Loam,600-800 mm,Mexico,South America,Asia,Summer
+Bluebell,Hyacinthoides non-scripta,Temperate,2-5 years,Loamy,600-800 mm,Europe,North America,Asia,Spring
+Blue Spruce,Picea pungens,Temperate,50-100 years,Clay Loam,600-900 mm,North America,Europe,Asia,Autumn
+Bottlebrush,Callistemon,Tropical,5-10 years,Sandy,800-1200 mm,Australia,Asia,South America,Summer
+Breadfruit,Artocarpus altilis,Tropical,30-50 years,Sandy Loam,1200-1500 mm,South America,Africa,Asia,Summer
+Buckwheat,Fagopyrum esculentum,Temperate,1 year,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Buttercup,Ranunculus,Tropical,1 year,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Cabbage Palm,Cordyline australis,Temperate,20-50 years,Sandy Loam,500-800 mm,Australia,New Zealand,Asia,Summer
+Camellia,Camellia japonica,Temperate,10-15 years,Loamy,600-800 mm,Asia,North America,Europe,Spring
+Canary Grass,Phalaris canariensis,Temperate,1-2 years,Sandy Loam,500-700 mm,North America,Europe,Asia,Summer
+Carob,Ceratonia siliqua,Mediterranean,50-100 years,Sandy Loam,400-600 mm,Europe,North Africa,Middle East,Summer
+Cashew,Anacardium occidentale,Tropical,30-40 years,Sandy Loam,1200-1500 mm,South America,Africa,Asia,Summer
+Cassava,Manihot esculenta,Tropical,1-2 years,Sandy Loam,1000-1200 mm,Africa,Asia,South America,Year-round
+Cedar,Cedrus libani,Temperate,50-150 years,Clay Loam,600-900 mm,Europe,Asia,North America,Winter
+Chamomile,Matricaria chamomilla,Temperate,1 year,Loamy,400-600 mm,Europe,Asia,North America,Summer
+Chard,Beta vulgaris,Tropical,1-2 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Summer
+Chayote,Sechium edule,Tropical,3-5 years,Sandy Loam,1200-1500 mm,South America,Asia,Africa,Summer
+Chestnut,Castanea sativa,Temperate,80-120 years,Clay Loam,600-800 mm,Europe,Asia,North America,Autumn
+Chicory,Cichorium intybus,Temperate,1-2 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Summer
+Chives,Allium schoenoprasum,Temperate,2-4 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Summer
+Chokeberry,Aronia melanocarpa,Temperate,10-20 years,Loamy,600-800 mm,Europe,Asia,North America,Autumn
+Cilantro,Coriandrum sativum,Tropical,1 year,Sandy Loam,500-700 mm,Asia,Europe,Africa,Summer
+Clove,Syzygium aromaticum,Tropical,50-100 years,Sandy Loam,1000-1500 mm,Asia,Africa,South America,Year-round
+Clover,Trifolium,Tropical,2-3 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Coca,Erythroxylum coca,Tropical,30-50 years,Sandy Loam,1000-1500 mm,South America,Asia,Africa,Summer
+Cocoa,Theobroma cacao,Tropical,40-100 years,Sandy Loam,1500-2500 mm,South America,Africa,Asia,Year-round
+Coffee,Coffea arabica,Tropical,20-50 years,Loamy,1500-2500 mm,South America,Africa,Asia,Year-round
+Columbine,Aquilegia,Temperate,2-5 years,Sandy Loam,500-700 mm,Europe,North America,Asia,Spring
+Common Fig,Ficus carica,Mediterranean,30-50 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Summer
+Common Yew,Taxus baccata,Temperate,500-1000 years,Clay Loam,600-900 mm,Europe,Asia,North America,Autumn
+Coriander,Coriandrum sativum,Tropical,1 year,Sandy Loam,500-700 mm,Asia,Europe,North America,Summer
+Cornflower,Centaurea cyanus,Temperate,1-2 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Summer
+Cotton,Gossypium,Tropical,1 year,Sandy Loam,600-800 mm,Africa,Asia,South America,Summer
+Creeping Thyme,Thymus serpyllum,Temperate,5-10 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Summer
+Crocosmia,Crocosmia aurea,Temperate,5-7 years,Sandy Loam,600-800 mm,South Africa,Europe,Asia,Summer
+Cucumber Tree,Oxydendrum arboreum,Temperate,50-100 years,Clay Loam,600-800 mm,North America,Europe,Asia,Spring
+Cupressus,Cupressus sempervirens,Temperate,200-400 years,Clay Loam,400-600 mm,Europe,,,
+Name,Scientific Name,Climate of Growth,Life Span,Soil,Adequate Rainfall,Top Regions,Season,,
+Sage,Salvia officinalis,Mediterranean,5-10 years,Loamy,400-600 mm,Europe,Asia,North America,Summer
+Thyme,Thymus vulgaris,Mediterranean,3-7 years,Sandy Loam,300-500 mm,Europe,Asia,Africa,Spring
+Oregano,Origanum vulgare,Mediterranean,5-10 years,Sandy Loam,400-600 mm,Europe,Asia,Africa,Summer
+Bay Laurel,Laurus nobilis,Mediterranean,50-100 years,Loamy,500-700 mm,Europe,Asia,North Africa,Summer
+Chives,Allium schoenoprasum,Temperate,1-2 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Tarragon,Artemisia dracunculus,Temperate,3-5 years,Loamy,400-600 mm,Europe,Asia,North America,Summer
+Fennel,Foeniculum vulgare,Temperate,1-2 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Summer
+Marjoram,Origanum majorana,Mediterranean,3-5 years,Sandy Loam,400-600 mm,Europe,Asia,Africa,Summer
+Chamomile,Matricaria chamomilla,Temperate,1 year,Sandy Loam,400-600 mm,Europe,Asia,North America,Summer
+Lemongrass,Cymbopogon citratus,Tropical,5-10 years,Loamy,1000-1500 mm,Asia,Africa,South America,Summer
+Borage,Borago officinalis,Mediterranean,1 year,Loamy,400-600 mm,Europe,Asia,Africa,Spring
+Lovage,Levisticum officinale,Temperate,5-10 years,Loamy,500-700 mm,Europe,Asia,North America,Summer
+Cardamom,Elettaria cardamomum,Tropical,20-40 years,Sandy Loam,1500-2000 mm,Asia,Africa,South America,Summer
+Tumeric,Curcuma longa,Tropical,2-3 years,Sandy Loam,1500-2000 mm,Asia,Africa,South America,Summer
+Ginger,Zingiber officinale,Tropical,1 year,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Quinoa,Chenopodium quinoa,Tropical,1 year,Sandy Loam,300-600 mm,South America,Africa,Asia,Summer
+Barley,Hordeum vulgare,Temperate,1 year,Loamy,300-500 mm,Europe,Asia,North America,Spring
+Wheat,Triticum aestivum,Temperate,1 year,Loamy,400-700 mm,Asia,Europe,North America,Spring
+Sorghum,Sorghum bicolor,Tropical,1 year,Sandy Loam,400-700 mm,Africa,Asia,North America,Summer
+Rye,Secale cereale,Temperate,1 year,Loamy,400-600 mm,Europe,Asia,North America,Spring
+Oats,Avena sativa,Temperate,1 year,Loamy,400-600 mm,Europe,Asia,North America,Spring
+Millet,Panicum miliaceum,Tropical,1 year,Sandy Loam,400-600 mm,Africa,Asia,South America,Summer
+Buckwheat,Fagopyrum esculentum,Temperate,1 year,Sandy Loam,400-600 mm,Europe,Asia,North America,Summer
+Flax,Linum usitatissimum,Temperate,1 year,Loamy,400-600 mm,Europe,Asia,North America,Spring
+Cotton,Gossypium,Tropical,1-2 years,Loamy,700-1000 mm,Asia,Africa,South America,Summer
+Tea,Camellia sinensis,Subtropical,30-50 years,Loamy,1200-1500 mm,Asia,Africa,South America,Year-round
+Coffee,Coffea arabica,Subtropical,10-50 years,Sandy Loam,1000-1500 mm,Africa,South America,Asia,Summer
+Tobacco,Nicotiana tabacum,Tropical,1 year,Loamy,600-800 mm,North America,Asia,South America,Summer
+Cocoa,Theobroma cacao,Tropical,30-40 years,Loamy,1500-2000 mm,South America,Africa,Asia,Summer
+Vanilla,Vanilla planifolia,Tropical,10-20 years,Loamy,1500-2000 mm,South America,Africa,Asia,Summer
+Rubber,Hevea brasiliensis,Tropical,50-100 years,Loamy,1500-2500 mm,South America,Africa,Asia,Summer
+Pineapple,Ananas comosus,Tropical,2-4 years,Sandy Loam,1000-1500 mm,South America,Africa,Asia,Summer
+Kale,Brassica oleracea var. sabellica,Temperate,1-2 years,Loamy,600-900 mm,Europe,North America,Asia,Spring
+Watermelon,Citrullus lanatus,Tropical,1 year,Sandy Loam,500-700 mm,Africa,Asia,South America,Summer
+Sugarcane,Saccharum officinarum,Tropical,10-20 years,Loamy,1000-1500 mm,Asia,Africa,South America,Year-round
+Cassava,Manihot esculenta,Tropical,10-20 years,Sandy Loam,1000-1500 mm,South America,Africa,Asia,Summer
+Jute,Corchorus,Tropical,1 year,Sandy Loam,1500-2000 mm,Asia,Africa,South America,Summer
+Hemp,Cannabis sativa,Temperate,1 year,Sandy Loam,500-700 mm,Asia,Europe,North America,Summer
+Chickpea,Cicer arietinum,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Summer
+Lentil,Lens culinaris,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Summer
+Pea,Pisum sativum,Temperate,1 year,Loamy,400-600 mm,Europe,Asia,North America,Spring
+Soybean,Glycine max,Temperate,1 year,Sandy Loam,600-800 mm,Asia,South America,North America,Summer
+Alfalfa,Medicago sativa,Temperate,5-10 years,Loamy,500-700 mm,North America,Asia,Europe,Summer
+Sesame,Sesamum indicum,Tropical,1 year,Sandy Loam,400-600 mm,Africa,Asia,South America,Summer
+Sunflower Seed,Helianthus annuus,Tropical,1 year,Sandy Loam,600-800 mm,North America,Europe,Asia,Summer
+Mustard Seed,Brassica nigra,Tropical,1 year,Loamy,600-900 mm,Asia,Europe,North America,Spring
+Cumin,Cuminum cyminum,Temperate,1 year,Sandy Loam,400-600 mm,Asia,Africa,Europe,Summer
+Fenugreek,Trigonella foenum-graecum,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Summer
+Pistachio,Pistacia vera,Temperate,50-150 years,Sandy Loam,400-600 mm,Asia,Europe,North America,Autumn
+Walnut,Juglans,Temperate,50-200 years,Loamy,600-900 mm,Asia,Europe,North America,Autumn
+Almond,Prunus dulcis,Temperate,20-50 years,Sandy Loam,600-900 mm,Asia,Europe,North America,Spring
+Cashew,Anacardium occidentale,Tropical,20-40 years,Sandy Loam,700-1000 mm,South America,Africa,Asia,Summer
+Hazelnut,Corylus avellana,Temperate,50-100 years,Loamy,600-900 mm,Europe,Asia,North America,Autumn
+Macadamia,Macadamia integrifolia,Tropical,50-100 years,Sandy Loam,1000-1500 mm,Australia,South America,Africa,Summer
+Pecan,Carya illinoinensis,Temperate,50-150 years,Sandy Loam,600-900 mm,North America,Asia,Europe,Autumn
+Brazil Nut,Bertholletia excelsa,Tropical,50-100 years,Loamy,1500-2000 mm,South America,Africa,Asia,Summer
+Avocado,Persea americana,Tropical,50-100 years,Sandy Loam,1200-1500 mm,South America,Africa,Asia,Summer
+,,,,,,,,,
+Buttercup,Ranunculus,Temperate,1-2 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Camellia,Camellia japonica,Temperate,50-100 years,Loamy,700-1000 mm,Asia,Europe,North America,Winter
+Cardamom,Elettaria cardamomum,Tropical,5-10 years,Sandy Loam,1500-2000 mm,Asia,Africa,South America,Summer
+Carnation,Dianthus caryophyllus,Temperate,2-3 years,Loamy,500-700 mm,Europe,Asia,North America,Spring
+Cassava,Manihot esculenta,Tropical,1-2 years,Sandy Loam,600-900 mm,South America,Africa,Asia,Summer
+Castor Oil Plant,Ricinus communis,Tropical,1-3 years,Loamy,500-700 mm,Africa,Asia,South America,Year-round
+Cedar,Cedrus,Temperate,200-300 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Autumn
+Chamomile,Matricaria chamomilla,Temperate,1 year,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Chia,Salvia hispanica,Tropical,1-2 years,Sandy Loam,600-800 mm,South America,Asia,Africa,Summer
+Chickpea,Cicer arietinum,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Spring
+Chicory,Cichorium intybus,Temperate,2-3 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Chives,Allium schoenoprasum,Temperate,2-5 years,Loamy,400-600 mm,Europe,Asia,North America,Spring
+Clove,Syzygium aromaticum,Tropical,20-50 years,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Clover,Trifolium,Temperate,1-2 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Coffee,Coffea arabica,Tropical,10-15 years,Loamy,1000-1500 mm,Africa,Asia,South America,Summer
+Cotton,Gossypium,Tropical,1 year,Sandy Loam,600-900 mm,Asia,Africa,South America,Summer
+Cranberry,Vaccinium macrocarpon,Temperate,10-20 years,Peaty,600-800 mm,North America,Europe,Asia,Autumn
+Cumin,Cuminum cyminum,Tropical,1 year,Sandy Loam,500-700 mm,Asia,Africa,South America,Summer
+Daffodil,Narcissus,Temperate,2-3 years,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Date Palm,Phoenix dactylifera,Tropical,70-100 years,Sandy,1500-2000 mm,Africa,Asia,South America,Summer
+Daphne,Daphne odora,Temperate,5-10 years,Loamy,500-800 mm,Asia,Europe,North America,Spring
+Dragon Fruit,Hylocereus undatus,Tropical,5-10 years,Sandy Loam,800-1200 mm,South America,Asia,Africa,Summer
+Durian,Durio zibethinus,Tropical,80-150 years,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Elderberry,Sambucus nigra,Temperate,15-30 years,Loamy,600-800 mm,Europe,Asia,North America,Autumn
+Endive,Cichorium endivia,Temperate,1-2 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Fig,Ficus carica,Tropical,50-100 years,Loamy,600-900 mm,Asia,North America,Africa,Summer
+Flax,Linum usitatissimum,Temperate,1 year,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Foxglove,Digitalis purpurea,Temperate,2-3 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Spring
+Freesia,Freesia,Tropical,1 year,Loamy,600-900 mm,Africa,Asia,Europe,Summer
+Gardenia,Gardenia jasminoides,Tropical,5-10 years,Loamy,1000-1500 mm,Asia,Africa,South America,Summer
+Ginger,Zingiber officinale,Tropical,1 year,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Ginseng,Panax ginseng,Temperate,10-20 years,Loamy,700-1000 mm,Asia,Europe,North America,Autumn
+Gooseberry,Ribes uva-crispa,Temperate,5-10 years,Loamy,600-900 mm,Europe,Asia,North America,Spring
+Gourd,Lagenaria siceraria,Tropical,1 year,Sandy Loam,500-700 mm,Asia,Africa,South America,Summer
+Grape Hyacinth,Muscari,Temperate,2-3 years,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Guava,Psidium guajava,Tropical,20-40 years,Sandy Loam,700-900 mm,Asia,Africa,South America,Summer
+Hawthorn,Crataegus monogyna,Temperate,100-150 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Autumn
+Hazelnut,Corylus avellana,Temperate,50-80 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Hops,Humulus lupulus,Temperate,10-20 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Summer
+Hyacinth,Hyacinthus orientalis,Temperate,2-5 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Spring
+Jackfruit,Artocarpus heterophyllus,Tropical,50-100 years,Loamy,1000-1500 mm,Asia,Africa,South America,Summer
+Jalapeno,Capsicum annuum,Tropical,1 year,Sandy Loam,600-900 mm,North America,Asia,Africa,Summer
+Jojoba,Simmondsia chinensis,Tropical,100-200 years,Sandy Loam,300-500 mm,North America,Africa,Asia,Summer
+Juniper,Juniperus communis,Temperate,200-400 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Winter
+Kale,Brassica oleracea var. sabellica,Temperate,1 year,Sandy Loam,500-700 mm,Europe,Asia,North America,Autumn
+Kiwifruit,Actinidia deliciosa,Tropical,20-40 years,Sandy Loam,700-1000 mm,Asia,Europe,North America,Summer
+Kohlrabi,Brassica oleracea var. gongylodes,Temperate,1 year,Sandy Loam,600-900 mm,Europe,Asia,North America,Summer
+Lavender,Lavandula angustifolia,Temperate,5-10 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Lentil,Lens culinaris,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Spring
+Licorice,Glycyrrhiza glabra,Temperate,5-10 years,Sandy Loam,500-800 mm,Asia,Europe,North America,AutumnName
+Buttercup,Ranunculus,Temperate,1-2 years,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Camellia,Camellia japonica,Temperate,50-100 years,Loamy,700-1000 mm,Asia,Europe,North America,Winter
+Cardamom,Elettaria cardamomum,Tropical,5-10 years,Sandy Loam,1500-2000 mm,Asia,Africa,South America,Summer
+Carnation,Dianthus caryophyllus,Temperate,2-3 years,Loamy,500-700 mm,Europe,Asia,North America,Spring
+Cassava,Manihot esculenta,Tropical,1-2 years,Sandy Loam,600-900 mm,South America,Africa,Asia,Summer
+Castor Oil Plant,Ricinus communis,Tropical,1-3 years,Loamy,500-700 mm,Africa,Asia,South America,Year-round
+Cedar,Cedrus,Temperate,200-300 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Autumn
+Chamomile,Matricaria chamomilla,Temperate,1 year,Sandy Loam,400-600 mm,Europe,Asia,North America,Spring
+Chia,Salvia hispanica,Tropical,1-2 years,Sandy Loam,600-800 mm,South America,Asia,Africa,Summer
+Chickpea,Cicer arietinum,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Spring
+Chicory,Cichorium intybus,Temperate,2-3 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Chives,Allium schoenoprasum,Temperate,2-5 years,Loamy,400-600 mm,Europe,Asia,North America,Spring
+Clove,Syzygium aromaticum,Tropical,20-50 years,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Clover,Trifolium,Temperate,1-2 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Coffee,Coffea arabica,Tropical,10-15 years,Loamy,1000-1500 mm,Africa,Asia,South America,Summer
+Cotton,Gossypium,Tropical,1 year,Sandy Loam,600-900 mm,Asia,Africa,South America,Summer
+Cranberry,Vaccinium macrocarpon,Temperate,10-20 years,Peaty,600-800 mm,North America,Europe,Asia,Autumn
+Cumin,Cuminum cyminum,Tropical,1 year,Sandy Loam,500-700 mm,Asia,Africa,South America,Summer
+Daffodil,Narcissus,Temperate,2-3 years,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Date Palm,Phoenix dactylifera,Tropical,70-100 years,Sandy,1500-2000 mm,Africa,Asia,South America,Summer
+Daphne,Daphne odora,Temperate,5-10 years,Loamy,500-800 mm,Asia,Europe,North America,Spring
+Dragon Fruit,Hylocereus undatus,Tropical,5-10 years,Sandy Loam,800-1200 mm,South America,Asia,Africa,Summer
+Durian,Durio zibethinus,Tropical,80-150 years,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Elderberry,Sambucus nigra,Temperate,15-30 years,Loamy,600-800 mm,Europe,Asia,North America,Autumn
+Endive,Cichorium endivia,Temperate,1-2 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Spring
+Fig,Ficus carica,Tropical,50-100 years,Loamy,600-900 mm,Asia,North America,Africa,Summer
+Flax,Linum usitatissimum,Temperate,1 year,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Foxglove,Digitalis purpurea,Temperate,2-3 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Spring
+Freesia,Freesia,Tropical,1 year,Loamy,600-900 mm,Africa,Asia,Europe,Summer
+Gardenia,Gardenia jasminoides,Tropical,5-10 years,Loamy,1000-1500 mm,Asia,Africa,South America,Summer
+Ginger,Zingiber officinale,Tropical,1 year,Loamy,1500-2000 mm,Asia,Africa,South America,Summer
+Ginseng,Panax ginseng,Temperate,10-20 years,Loamy,700-1000 mm,Asia,Europe,North America,Autumn
+Gooseberry,Ribes uva-crispa,Temperate,5-10 years,Loamy,600-900 mm,Europe,Asia,North America,Spring
+Gourd,Lagenaria siceraria,Tropical,1 year,Sandy Loam,500-700 mm,Asia,Africa,South America,Summer
+Grape Hyacinth,Muscari,Temperate,2-3 years,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Guava,Psidium guajava,Tropical,20-40 years,Sandy Loam,700-900 mm,Asia,Africa,South America,Summer
+Hawthorn,Crataegus monogyna,Temperate,100-150 years,Sandy Loam,500-700 mm,Europe,Asia,North America,Autumn
+Hazelnut,Corylus avellana,Temperate,50-80 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Hops,Humulus lupulus,Temperate,10-20 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Summer
+Hyacinth,Hyacinthus orientalis,Temperate,2-5 years,Sandy Loam,600-800 mm,Europe,Asia,North America,Spring
+Jackfruit,Artocarpus heterophyllus,Tropical,50-100 years,Loamy,1000-1500 mm,Asia,Africa,South America,Summer
+Jalapeno,Capsicum annuum,Tropical,1 year,Sandy Loam,600-900 mm,North America,Asia,Africa,Summer
+Jojoba,Simmondsia chinensis,Tropical,100-200 years,Sandy Loam,300-500 mm,North America,Africa,Asia,Summer
+Juniper,Juniperus communis,Temperate,200-400 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Winter
+Kale,Brassica oleracea var. sabellica,Temperate,1 year,Sandy Loam,500-700 mm,Europe,Asia,North America,Autumn
+Kiwifruit,Actinidia deliciosa,Tropical,20-40 years,Sandy Loam,700-1000 mm,Asia,Europe,North America,Summer
+Kohlrabi,Brassica oleracea var. gongylodes,Temperate,1 year,Sandy Loam,600-900 mm,Europe,Asia,North America,Summer
+Lavender,Lavandula angustifolia,Temperate,5-10 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Summer
+Lentil,Lens culinaris,Temperate,1 year,Loamy,400-600 mm,Asia,Europe,North America,Spring
+Licorice,Glycyrrhiza glabra,Temperate,5-10 years,Sandy Loam,500-800 mm,Asia,Europe,North America,Autumn
+Lilac,Syringa vulgaris,Temperate,30-50 years,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Lily of the Valley,Convallaria majalis,Temperate,10-15 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Spring
+Linden,Tilia cordata,Temperate,100-300 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Autumn
+Litchi,Litchi chinensis,Tropical,20-40 years,Sandy Loam,1000-1500 mm,Asia,Africa,South America,Summer
+Loquat,Eriobotrya japonica,Tropical,20-30 years,Sandy Loam,600-900 mm,Asia,Africa,South America,Summer
+Lychee,Litchi chinensis,Tropical,20-40 years,Sandy Loam,1000-1500 mm,Asia,Africa,South America,Summer
+Magnolia,Magnolia grandiflora,Temperate,100-200 years,Loamy,600-900 mm,North America,Europe,Asia,Spring
+Lilac,Syringa vulgaris,Temperate,30-50 years,Loamy,600-800 mm,Europe,Asia,North America,Spring
+Lily of the Valley,Convallaria majalis,Temperate,10-15 years,Sandy Loam,500-800 mm,Europe,Asia,North America,Spring
+Linden,Tilia cordata,Temperate,100-300 years,Sandy Loam,600-900 mm,Europe,Asia,North America,Autumn
+Litchi,Litchi chinensis,Tropical,20-40 years,Sandy Loam,1000-1500 mm,Asia,Africa,South America,Summer
+Loquat,Eriobotrya japonica,Tropical,20-30 years,Sandy Loam,600-900 mm,Asia,Africa,South America,Summer
+Lychee,Litchi chinensis,Tropical,20-40 years,Sandy Loam,1000-1500 mm,Asia,Africa,South America,Summer
+Magnolia,Magnolia grandiflora,Temperate,100-200 years,Loamy,600-900 mm,North America,Europe,Asia,Spring
+Parsleys,Petroselinum crispum,"Mild to warm (50–70°F)",Biennial,"Well-draining, rich loamy soil, pH 5.5-7.0","1 inch per week (moderate watering)",Mediterranean,North America,"Europe and parts of Asia","Spring and fall"
